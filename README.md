@@ -1,1 +1,1 @@
-# history-snake
+# word-snake
