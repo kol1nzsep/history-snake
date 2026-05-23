@@ -5,6 +5,6 @@ Although if you find it interesting and you want to run it on your own personal 
 
 1. Clone the repo.
 2. Open terminal and type: pip install pygame.
-3. Open the file entitled "game.py".
-4. Run the program. 
-5. Success! Enjoy.
+3. Click on the dist folder and on the game.exe file 
+4. Success! Enjoy.
+ 
